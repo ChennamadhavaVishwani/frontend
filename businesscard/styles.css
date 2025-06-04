@@ -1,0 +1,44 @@
+body{
+    margin: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* background-color: #FFDEE9; /* Bright Coral */
+  /* color: #FFFFFF;   */
+
+  /* background: linear-gradient(135deg, #FF9A8B, #FF6A88, #FF99AC); /* Gradient Pink */
+  /* color: #FFFFFF;  */
+
+  background-color: #5a5959; /* Light Pink */
+  color: #f8f4f9; 
+}
+
+.avatar{
+    width: 150px;
+}
+
+.card{
+    /* border: 5px dotted blue; */
+    width : 400px;
+    margin: auto auto;
+    padding: 20px;
+    
+    display: flex;
+    justify-content: space-around;
+
+    /* background: coral; */
+    color: #f0eff3;
+    border-bottom: 2px solid #d8fed8; 
+    /* background-color: #FFD700; /* Vibrant Yellow */
+  /* border: 2px solid #FF4500; /* Orange-Red */
+  /* color: #2E294E;  */ 
+        /* background-color: #B5EAEA; /* Soft Aqua */
+  /* border: 2px solid #FFB3C1; Pastel Coral */
+  /* color: #393E46; Neutral Dark Gray */ 
+    background: linear-gradient(135deg, #0f0f0f, #4e4d4d); /* Aqua to Navy Gradient */
+    /* border: none;
+    color: #FFFFFF; */
+}
+
+/* .border-blue{
+    /* border: 5px dotted blue; */
+    
